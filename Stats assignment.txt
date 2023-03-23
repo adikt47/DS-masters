@@ -1,0 +1,73 @@
+Q1. What is Statistics?
+Ans- Statistics is the science of collecting, organising and analysing the data
+
+Q2. Define the different types of statistics and give an example of when each type might be used.
+Ans- 1. Descriptive Stats: It helps to organise and summarise the data
+     2. Inferential Stats: Helps to use data you have measured to form a conclusion
+ E.g., If there are 100 books in a library with pages: 
+ [100,200,300,400,250,400,...]
+ Descriptive: Will help to find the avg. no. of pages in all the books
+ Inferential: Will help to understand if students who don't like to read, will read these books or not? 
+ 
+ Q3. What are the different types of data and how do they differ from each other? Provide an example of
+each type of data.
+Ans: 1. Qualitative: Numerical data
+1.1. Discerete Data: Whole Number e.g., No. of bank accounts, no. of children in a family
+1.2. Continuous: Any value e.g., weight, height, speed, temperature
+
+2. Qualitative Data: Categorical Data
+2.1. Nominal Data: Fixed set of categories: e.g., Gender, Blood group
+2.2. Ordinal Data: Rank based categorised data: e.g., Good, Bad, Satisfactory in a review meeting
+
+Q4. Categorise the following datasets with respect to quantitative and qualitative data types:
+(i) Grading in exam: A+, A, B+, B, C+, C, D, E
+Sol: qualitative(Ordinal)
+(ii) Colour of mangoes: yellow, green, orange, red
+Sol: Qualitative(Nominal)
+(iii) Height data of a class: [178.9, 179, 179.5, 176, 177.2, 178.3, 175.8,...]
+Sol: Quantitative(Continuous)
+(iv) Number of mangoes exported by a farm: [500, 600, 478, 672, ...]
+Sol: Quantitative(Discrete)
+
+Q5. Explain the concept of levels of measurement and give an example of a variable for each level.
+Ans: Levels or scale of measurement helps to define data and categorise them according to level of refinement
+We have data which can be categroised into 4 scale:
+1. Nominal Scale Data - Qualitative/ categorical variable, here order/rank doesn't matter
+E.g., Gender, color, Labels
+
+2. Ordinal Scale Data- Qualitative/ Categorical variable, here order/rank matters, difference cannot be measured
+E.g., Qualification of 5 people is given: PHd, BTech, BCom, BSc, MBA. The ranks can be PHd, MBA, Btech, BSc, BCom but we do not have enouhg evidence to differentiate them
+
+3. Interval Scale Data: Rank and order matters, Difference can be measured but not the reatio, doesn't start with "0"
+E.g., Temperature in Fahrenheit: 30,60,40,50,90 here we can measure differences but we cannot say 30/60 means we'll have half the cold in area with 30F, also we can have temperature in negative as well
+
+4. Ratio Scale Data: Rank and order matters, Difference and ratio bith can be measured, have 0 as starting point
+E.g., Marks: 0,100,20,40,50,60 -> Here we can say 100/50=2/1 that the student with 100 marks have scored double the marks and the marks cannot be in negative as well, also the student with 100 marks gets 1st rank
+
+Q6. Why is it important to understand the level of measurement when analyzing data? Provide an
+example to illustrate your answer.
+Sol: It is important to have level of measurment when analysing as to get the fair idea the data which is given can be categorized into which solution. What inference can be taken out from the data after processing it. What results can be taken out to make more sense. 
+E.g., If we take an example of tempearature in Celsius: 10,30,50,-3 
+Here we'll understand that -3 is coldest city/ region, but if we try to categrorize which is the best city, we cannot do it as it also depends upon the problem statement. If the problem statement says which is the best city to visit in summer or best city to see snow then we'll pick -3C city. 
+
+Q7. How nominal data type is different from ordinal data type.
+Sol: In ordinal data we can rank the value whereas in Nominal data type we cannot rank the values. 
+E.g., Qualification of 5 people is given: PHd, BTech, BCom, BSc, MBA. The ranks can be PHd, MBA, Btech, BSc, BCom according to Ordinal but for ordinal data it is just different degrees with no measurement
+
+Q8. Which type of plot can be used to display data in terms of range?
+Sol: Ratio Scale
+Q9. Describe the difference between descriptive and inferential statistics. Give an example of each
+type of statistics and explain how they are used.
+Sol: 1. Descriptive Stats: It helps to organise and summarise the data
+     2. Inferential Stats: Helps to use data you have measured to form a conclusion
+ E.g., If there are 100 books in a library with pages: 
+ [100,200,300,400,250,400,...]
+ Descriptive: Will help to find the avg. no. of pages in all the books
+ Inferential: Will help to understand if students who don't like to read, will read these books or not? 
+ 
+ Q10. What are some common measures of central tendency and variability used in statistics? Explain
+how each measure can be used to describe a dataset.
+Sol: Central Tendencies used in stats: 
+1. Mean: Mean is the average of all of the numbers, helps to get the average of the dataset
+2. Median: Median is the middle number, when in order, helps to get the middle value  
+3. Mode: Mode is the most common number, helps to get the most common value in a dataset
